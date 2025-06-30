@@ -1,0 +1,81 @@
+{
+	"id": "73727946-44d2-4828-bb16-d655c8fc34d9",
+	"name": "Booker API Environment",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "admin",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "password123",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "first_name",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "last_name",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "totalprice",
+			"value": "120",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "checkin",
+			"value": "2024-01-02",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "additionalneeds",
+			"value": "Breakfast",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "checkout",
+			"value": "2025-01-01",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "depositpaid",
+			"value": "true",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookingID",
+			"value": "19",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-06-30T08:38:53.314Z",
+	"_postman_exported_using": "Postman/11.51.6-250627-0710"
+}
